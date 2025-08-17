@@ -1,0 +1,2 @@
+# amazon_clone
+This repository built using only html &amp; Css.
